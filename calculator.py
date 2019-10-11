@@ -42,7 +42,6 @@ def sqrt():
     sqrt=math.sqrt(float(e1_value.get()))
     t1.insert(END,sqrt)
 
-
 #NORMAL CALCULATOR
 def normal():
     e2_value.set('')
@@ -66,7 +65,6 @@ def normal():
 
     b7=Button(window,text="SCIENTIFIC",width=14,command=science)
     b7.grid(row=9,column=1)
-
 
 #SCIENTIFIC CALCULATOR'''
 def science():
@@ -101,7 +99,6 @@ l2.grid(row=2,column=0)
 
 l3=Label(window,text="RESULT :")
 l3.grid(row=4,column=0)
-
 
 '''ENTRIES'''
 e1_value=StringVar()
