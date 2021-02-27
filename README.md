@@ -4,7 +4,7 @@ Some GUI based applications programmed using python's tkinter module.
 
 ## CALCULATOR:
 
-Calculator made by tkinter module of python for all the arithmetic and scientific operations of number .
+Calculator made using tkinter module of python for all the arithmetic and scientific operations.
 
 ![Calculator](https://github.com/rajesh1998/Tkinter/blob/master/assets/calculator%201.png)  
   
