@@ -1,7 +1,11 @@
 # Tkinter-python
-GUI based applications programmed using python's tkinter module.
+An Amazing start for beginners who want to make GUI by Python Language .
+Some GUI based applications programmed using python's tkinter module.
 
 ## CALCULATOR:
+
+Calculator made by tkinter module of python for all the arithmetic and scientific operations of number .
+
 ![Calculator](https://github.com/rajesh1998/Tkinter/blob/master/assets/calculator%201.png)  
   
 ![Calculator](https://github.com/rajesh1998/Tkinter/blob/master/assets/calculator%202.png)  
